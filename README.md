@@ -1,5 +1,5 @@
 
-# Deep Learning Prediction of Adverse Drug Reactions In Drug Discovery Using Open TG–GATEs and FAERS Databases
+### Deep Learning Prediction of Adverse Drug Reactions In Drug Discovery Using Open TG–GATEs and FAERS Databases
 
 This is the the companion repository of the paper: (Will be added later)
 
