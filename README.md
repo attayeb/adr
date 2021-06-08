@@ -27,3 +27,6 @@ Files details:
 │   └── toxic_epidermal_necrolysis
 └── summary_of_models.json
 ```
+
+### How to execute these models:
+To run these models to predict for new data, please load the model using tf.keras.models.load_model and following the prepartion of the data as mentioned in the article. For further details please contact me at: attayeb@nibiohn.go.jp;
